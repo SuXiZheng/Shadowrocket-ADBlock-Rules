@@ -13,6 +13,8 @@ import base64
 
 
 rules_url = 'https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt'
+# rules_url = 'https://bitbucket.org/gfwlist/gfwlist/raw/HEAD/gfwlist.txt'
+
 
 unhandle_rules = []
 
